@@ -1,1 +1,1 @@
-# htmx_sudoku_game
+# htmx sudoku game
